@@ -66,5 +66,17 @@
       "petsAllowed": false,
       "organizer": "Brody Kill"
     }
+  ],
+  "passengers": [
+    {
+      "name": "Alice Smith",
+      "age" : "28",
+      "passport_number": "X12345678",
+      "flight": "BA204",
+      "seat_number": "12A",
+      "destination": "London Heathrow (LHR)",
+      "departure_date": "August 5, 2024",
+      "departure_time": "09:00"
+    }
   ]
 }
