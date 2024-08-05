@@ -77,6 +77,56 @@
       "destination": "London Heathrow (LHR)",
       "departure_date": "August 5, 2024",
       "departure_time": "09:00"
+    },
+    {
+      "name": "John Doe",
+      "age" : "35",
+      "passport_number": "Y23456789",
+      "flight": "AA101",
+      "seat_number": "18C",
+      "destination": "New York JFK (JFK)",
+      "departure_date": "August 6, 2024",
+      "departure_time": "14:30"
+    },
+    {
+      "name": "Maria Garcia",
+      "age" : "22",
+      "passport_number": "Z34567890",
+      "flight": "DL407",
+      "seat_number": "22F",
+      "destination": "Los Angeles (LAX)",
+      "departure_date": "August 7, 2024",
+      "departure_time": "11:15"
+    },
+    {
+      "name": "Ahmed Khan",
+      "age" : "40",
+      "passport_number": "A45678901",
+      "flight": "EK202",
+      "seat_number": "5B",
+      "destination": "Dubai (DXB)",
+      "departure_date": "August 8, 2024",
+      "departure_time": "18:00"
+    },
+    {
+      "name": "Sophie Lee",
+      "age" : "30",
+      "passport_number": "B56789012",
+      "flight": "QF12",
+      "seat_number": "9D",
+      "destination": "Sydney (SYD)",
+      "departure_date": "August 9, 2024",
+      "departure_time": "22:45"
+    },
+    {
+      "name": "David Wilson",
+      "age" : "45",
+      "passport_number": "C67890123",
+      "flight": "LH401",
+      "seat_number": "15E",
+      "destination": "Frunkfurt (FRA)",
+      "departure_date": "August 10, 2024",
+      "departure_time": "16:30"
     }
   ]
 }
